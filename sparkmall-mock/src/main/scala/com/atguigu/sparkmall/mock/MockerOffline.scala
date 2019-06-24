@@ -11,7 +11,7 @@ import org.apache.spark.sql.{DataFrame, SparkSession}
 
 /**
   * 模拟生成离线数据
-  *
+  * github
   * @author Huangfeng
   * @create 2019-06-18 下午 4:02
   */
